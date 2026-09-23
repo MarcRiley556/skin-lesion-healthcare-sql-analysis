@@ -11,6 +11,8 @@ The analysis explores demographic patterns, lesion characteristics, symptoms, an
 
 The project focuses on using SQL not only to retrieve data, but to transform, aggregate and interpret healthcare information while distinguishing descriptive associations from causal conclusions.
 
+![Skin Lesion Healthcare Analysis – project summary](sql-analysis-summary.png)
+
 ---
 
 ## Project Files
